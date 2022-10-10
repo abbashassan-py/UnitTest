@@ -371,11 +371,6 @@ C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing
 C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.pdb
 C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.genruntimeconfig.cache
 C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing-task\obj\Debug\net6.0\ref\Testing-task.dll
-C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.csproj.AssemblyReference.cache
-C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.GeneratedMSBuildEditorConfig.editorconfig
-C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.AssemblyInfoInputs.cache
-C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.AssemblyInfo.cs
-C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.csproj.CoreCompileInputs.cache
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\testhost.dll
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\testhost.exe
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -555,6 +550,11 @@ C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\runtimes\win-x86\nativ
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Test\Auto_Test\Auto_Test\Testing-task\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.csproj.AssemblyReference.cache
+C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.AssemblyInfoInputs.cache
+C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.AssemblyInfo.cs
+C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.csproj.CoreCompileInputs.cache
 C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.csproj.CopyComplete
 C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\Testing-task.dll
 C:\Test\Auto_Test\Auto_Test\Testing-task\obj\Debug\net6.0\refint\Testing-task.dll
