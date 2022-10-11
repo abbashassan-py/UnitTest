@@ -238,7 +238,7 @@ namespace Testing_task.testScripts
 
 
 
-        [Test]
+        [Test, Category("UAT"), Category("Smoke")]
         public void validate_web_Images()
         {
 

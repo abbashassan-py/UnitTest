@@ -32,12 +32,39 @@ namespace Testing_task.testScripts
                             "Company", "Address1", "Address2", "City1", "Alabama", 75304, "Additional Info", 222111, 9876789, "CKKR" }
 
              };
+
+            public static object[] TestDataForAccount_1 =
+{
+            new object[]
+            {
+                $"HaiderHassan{DateTime.Now.ToString("MM/dd/yyy hh:mm tt").Replace(" ", "").Replace("/", "").Replace(":", "")}@conntour-sofware.com",
+                "Mr.",
+                "Haider",
+                "hassan",
+                "Password1",
+                7,
+                "July",
+                2022,
+                "Sign up for our newsletter!",
+                "Company",
+                "Address1",
+                "Address2",
+                "City1",
+                "Alabama",
+                35004,
+                "Additional Info",
+                452778,
+                911345329,
+                "Allias 2"
+            }
+        };
         }
 
 
-        [Test]
+        [Test,Category("UAT"),Category("Smoke")]
 
         [TestCaseSource(typeof(CreateAnAccountData), nameof(CreateAnAccountData.TestDataForAccount))]
+        [TestCaseSource(typeof(CreateAnAccountData), nameof(CreateAnAccountData.TestDataForAccount_1))]
 
         //[TestCase("Sampleee12344@mail.com",true, false, "Mr.")]
         //[TestCase("abbas.hassan@contour-software.com", true, true, "Mr.")]

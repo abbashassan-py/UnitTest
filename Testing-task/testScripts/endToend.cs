@@ -22,6 +22,7 @@ namespace Testing_task.testScripts
 
 
         [TestCaseSource(typeof(CreateAnAccountData), nameof(CreateAnAccountData.TestDataForAccount))]
+        [TestCaseSource(typeof(CreateAnAccountData), nameof(CreateAnAccountData.TestDataForAccount_1))]
         public void EndToEnd(string email, string gender, string firstName, string lastName,
                                        string _password, int _days, string _month, int _year, string _checkBoxOffer,
                                        string _company, string _customerAddress1, string _customerAddress2, string _cityName,

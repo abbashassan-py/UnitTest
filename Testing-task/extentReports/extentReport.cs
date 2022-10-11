@@ -16,7 +16,7 @@ namespace Testing_task.Reports
         [SetUp]
         public void ExtentStarts()
         {
-                var reportPath = @"C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing-task\Reports\demo.html";
+                var reportPath = @"C:\Test\Auto_Test\Auto_Test\Testing-task\Reports\demo.html";
                 var htmlReporter = new ExtentHtmlReporter(reportPath);
                
                 extent = new ExtentReports();
@@ -49,7 +49,7 @@ namespace Testing_task.Reports
         [SetUp]
         public void ExtentStarts()
         {
-            var reportPath = @"C:\Users\hassaabb\OneDrive - Constellation HomeBuilder Systems\Auto_Test\Testing-task\fullReport\extentReport.html";
+            var reportPath = @"C:\Test\Auto_Test\Auto_Test\Testing-task\fullReport\extentReport.html";
             var htmlReporter = new ExtentHtmlReporter(reportPath);
 
             extent = new ExtentReports();
