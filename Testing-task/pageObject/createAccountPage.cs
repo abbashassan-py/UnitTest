@@ -75,7 +75,10 @@ namespace Testing_task.pageObject
         public void EnterEmailAddress(string email)
         {
             webElement(_enterEmail).SendKeys(email);
-            Thread.Sleep(5000);
+        }
+        public void ClearEmailAddress()
+        {
+            webElement(_enterEmail).Clear();
         }
 
         public string CheckEmailTextIsInserted(string _value)
@@ -140,12 +143,18 @@ namespace Testing_task.pageObject
             select = new SelectElement(driver.FindElement(_selectMonthDrop));
             select.SelectByIndex(index);
         }
+        public void SelectMonthByValue(int _month)
+        {
+            Console.WriteLine(_month);
+            select = new SelectElement(driver.FindElement(_selectMonthDrop));
+            select.SelectByValue("" + _month.ToString());
+        }
         public void SelectYear(int year)
         {
             select = new SelectElement(driver.FindElement(_selectYear));
             select.SelectByValue("" + year);
 
-        }
+        } 
 
         public void SelectCheckBoxOffer(string _titles)
         {

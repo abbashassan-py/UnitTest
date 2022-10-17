@@ -105,6 +105,10 @@
               "target": "Package",
               "version": "[3.9.74, )"
             },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
             "System.Runtime": {
               "target": "Package",
               "version": "[4.3.1, )"

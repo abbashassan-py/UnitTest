@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<account>
+	<user-deatils>
+		<email>taimurhasan@gmail.com</email>
+		<title>Mr.</title>
+		<fname>Taimur</fname>
+		<lname>hassan</lname>
+		<pwd>44.87495#</pwd>
+		<day>31</day>
+		<month>February</month>
+		<year>1998</year>
+		<company>company56</company>
+		<customerAddress1>customerAddress1</customerAddress1>
+		<customerAddress2>customerAddress2</customerAddress2>
+		<city>Ohio</city>
+		<state>Alabama</state>
+		<postalcode>78765</postalcode>
+		<additionalInfo>additionalInfo</additionalInfo>
+		<homePhone>7854136</homePhone>
+		<mobilePhone>45789658</mobilePhone>
+		
+	</user-deatils>
+
+	<user-deatils>
+		<email>daniyalContour@gmail.com</email>
+		<title>Mr.</title>
+		<fname>Taimur</fname>
+		<lname>hassan</lname>
+		<pwd>44.87495#</pwd>
+		<day>31</day>
+		<month>February</month>
+		<year>1998</year>
+		<company>company56</company>
+		<customerAddress1>customerAddress1</customerAddress1>
+		<customerAddress2>customerAddress2</customerAddress2>
+		<city>Ohio</city>
+		<state>Alabama</state>
+		<postalcode>78765</postalcode>
+		<additionalInfo>additionalInfo</additionalInfo>
+		<homePhone>7854136</homePhone>
+		<mobilePhone>45789658</mobilePhone>
+
+	</user-deatils>
+</account>
